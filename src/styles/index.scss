@@ -1,0 +1,8 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+
+$body-color: #34cd52;
+
+body {
+  color: $body-color;
+}
